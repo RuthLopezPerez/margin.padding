@@ -1,8 +1,6 @@
 div{
-	background-color: yellow;
-	border: solid black 0px;
+	border: 1px solid red;
 }
 .p{
-   color: blue;
-   margin-left: 20px;
+	
 }
